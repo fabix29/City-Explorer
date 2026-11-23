@@ -74,6 +74,34 @@
       "zile": 3,
       "vizitat": false,
       "id": "5QHtXJK46hU"
+    },
+    {
+      "oras": "Craiova",
+      "tara": "Romania",
+      "zile": 4,
+      "vizitat": false,
+      "id": "df_AYFlPrPQ"
+    },
+    {
+      "oras": "Craiova",
+      "tara": "Romania",
+      "zile": 2,
+      "vizitat": false,
+      "id": "IGRkIbprbmQ"
+    },
+    {
+      "oras": "Sevilia",
+      "tara": "Spania",
+      "zile": "6",
+      "vizitat": true,
+      "id": "6PUVpf4R4_A"
+    },
+    {
+      "oras": "Iasi",
+      "tara": "Romania",
+      "zile": 4,
+      "vizitat": false,
+      "id": "Is_ksHUKtWI"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

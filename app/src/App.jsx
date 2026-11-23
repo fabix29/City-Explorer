@@ -7,6 +7,7 @@ import FormularDestinatie from './components/FormularDestinatie.jsx';
 import Cautare from './components/Cautare.jsx';
 import ListaDestinatii from './components/ListaDestinatii.jsx';
 import './App.css';
+import PanouStatistici from './components/PanouStatistici.jsx';
 
 export default function App() {
   const [destinatii, setDestinatii] = useState([]);
@@ -87,6 +88,7 @@ export default function App() {
           />
         </>
       )}
+      <PanouStatistici />
     </main>
   );
 }
